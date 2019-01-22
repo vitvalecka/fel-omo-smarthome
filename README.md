@@ -1,4 +1,4 @@
-# OMO Smart House
+# ČVUT FEL OMO – Semestrální práce (Smart Home)
 ### Ukázkové scénáře
 Ukázkové scénáře naleznete v souborech *runConfig1* a *runConfig2*. Jejich spuštění lze provést spuštěním metody *main* v těchto souborech.
 
