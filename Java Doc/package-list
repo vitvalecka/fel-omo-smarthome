@@ -1,0 +1,8 @@
+cz.housebrains.controller
+cz.housebrains.logging
+cz.housebrains.model
+cz.housebrains.model.entities
+cz.housebrains.model.entities.details
+cz.housebrains.model.entities.devices
+cz.housebrains.run
+cz.housebrains.utils
